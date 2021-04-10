@@ -1,0 +1,7 @@
+name = "rgcmartinez"
+location = "westus"
+ippublica = "ippublicacmp"
+network = "cmartinezvnetwork"
+subnet = "cmartinezsubnet"
+container = "containerRegistrycmartinez"
+aks = "akscmartinez"
